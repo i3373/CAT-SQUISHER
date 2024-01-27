@@ -3,15 +3,19 @@ Squizing an image of a cat according to integral curve of system of ODE, using f
 
 Итак, мы сделали это, господа, мы сжали бедного кота.
 Как мы это сделали? Мы представили, что размеры нашей картинки — начальные точки на некоем фазовом пространстве системы уравнений:<br />
-![image](https://github.com/i3373/CAT-SQUEEZER/assets/101145638/f3f4d0a5-2aad-4982-9e74-023b7b83c3aa) <br />
+![image](https://github.com/i3373/CAT-SQUISHER/assets/101145638/17e2eeca-1ac0-4930-8c95-d9086ff1ed33)  <br />
 И, соответственно, просто изменяли их размеры в зависимости от изменения точек в зависимости от времени. Кстати, фазовое пространство данной системы выглядит примерно так: <br />
-![image](https://github.com/i3373/CAT-SQUEEZER/assets/101145638/c35bc724-6eef-4df3-9478-ce63d095bb34)
+![image](https://github.com/i3373/CAT-SQUISHER/assets/101145638/47969cf2-4065-4c8c-b752-93ec9c285fec)
+
 
 Результат работы программы: <br />
-![ezgif-5-27b2dd656e](https://github.com/i3373/CAT-SQUEEZER/assets/101145638/ab1d640d-081e-4d5c-ac7a-901dfd86f7f2)
+![ezgif-5-27b2dd656e](https://github.com/i3373/CAT-SQUISHER/assets/101145638/2ee795a1-61bc-47d6-848e-d119abbc57a3)
+
 
 Еще можно побаловаться меняя системы уравнений вот здесь, например, чтобы кота плющило, нужно заменить fx = x; fy = -y:
-![image](https://github.com/i3373/CAT-SQUEEZER/assets/101145638/778cc67b-1e28-4885-b5ce-61f8c888a5d8)
+![image](https://github.com/i3373/CAT-SQUISHER/assets/101145638/07b75248-8842-4f09-b736-735e4e4e8089)
+
 
 Вот здесь мы меняем имя файла и количество итераций нашего скукоживания, чем больше число, тем "медленнее" будет скукоживаться кот:
-![image](https://github.com/i3373/CAT-SQUEEZER/assets/101145638/8e3bcb7d-72dd-4e94-9a90-0b6126505bd0)
+![image](https://github.com/i3373/CAT-SQUISHER/assets/101145638/fcd8a924-6327-40e7-a767-b8e895766ee5)
+
