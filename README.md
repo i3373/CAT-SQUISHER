@@ -16,7 +16,7 @@ Squizing an image of a cat according to integral curve of system of ODE, using f
 ![image](https://github.com/i3373/CAT-SQUISHER/assets/101145638/07b75248-8842-4f09-b736-735e4e4e8089)
 
 
-Вот здесь мы меняем имя файла и количество итераций нашего скукоживания, чем больше число, тем "медленнее" будет скукоживаться кот:
+раз два три четыре, минус строка
 ![image](https://github.com/i3373/CAT-SQUISHER/assets/101145638/fcd8a924-6327-40e7-a767-b8e895766ee5)
 
 test message
